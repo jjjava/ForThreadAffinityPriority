@@ -1,0 +1,1 @@
+start "For(;;)" /high /affinity 4 java -jar ForThreadAffinityPriority.jar
